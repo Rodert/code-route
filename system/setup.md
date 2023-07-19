@@ -7,6 +7,8 @@
  * @FilePath: \code-route\system\setup.md
 -->
 
+## 搭建步骤
+
 ```bash
 $ npm i docsify-cli -g
 ```
