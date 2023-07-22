@@ -1,3 +1,11 @@
+/*
+ * @Author: JavaPub
+ * @Date: 2023-07-22 09:07:42
+ * @LastEditors: your name
+ * @LastEditTime: 2023-07-22 09:18:03
+ * @Description: Here is the JavaPub code base. Search JavaPub on the whole web.
+ * @FilePath: \code-route\js\index.js
+ */
 ;(function(win) {
     function isFunction(functionToCheck) {
      return functionToCheck && {}.toString.call(functionToCheck) === '[object Function]'
@@ -6,7 +14,7 @@
     win.EditOnGithubPlugin = {}
   
     function create(docBase, docEditBase, title) {
-      title = title || 'Edit on github'
+      title = title || '主页'
       docEditBase = docEditBase || docBase.replace(/\/blob\//, '/edit/')
   
       function editDoc(event, vm) {
