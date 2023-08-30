@@ -1,0 +1,1 @@
+用 markdown 语法编写，用 xmind 打开。
