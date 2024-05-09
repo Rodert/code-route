@@ -20,3 +20,16 @@ $ docsify init code-route
 ```bash
 $ docsify serve code-route
 ```
+
+
+## 启动步骤
+
+```bash
+$ npm i docsify-cli -g
+```
+
+在项目代码的外层执行命令：
+
+```bash
+$ docsify serve code-route
+```
