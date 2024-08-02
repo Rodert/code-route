@@ -15,7 +15,7 @@
 
 
 * [Java学习路线](docs/Java.md)
-* [前端学习路线](/)
+* [前端学习路线](docs/Front.md)
 * [Linux学习路线](/)
 * [GoLang学习路线](docs/GoLang.md)
 * [Python学习路线](/)
